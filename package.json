@@ -1,0 +1,22 @@
+{
+  "name": "abdo-gamal-portofolio",
+  "version": "1.0.0",
+  "description": "A portofolio for a ui/ux designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A7MEDC7",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^5.1.0",
+    "node-notifier": "^10.0.1",
+    "sass": "^1.63.4"
+  },
+  "dependencies": {}
+}
